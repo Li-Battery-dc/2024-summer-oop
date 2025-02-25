@@ -1,0 +1,66 @@
+[
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\main.cpp.obj", "main.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "main.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Controller\\Controller.cpp.obj", "Controller\\Controller.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Controller\\Controller.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\3D_Element\\Face.cpp.obj", "Model\\3D_Element\\Face.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\3D_Element\\Face.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\3D_Element\\Line.cpp.obj", "Model\\3D_Element\\Line.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\3D_Element\\Line.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\3D_Element\\Model.cpp.obj", "Model\\3D_Element\\Model.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\3D_Element\\Model.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\3D_Element\\Point.cpp.obj", "Model\\3D_Element\\Point.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\3D_Element\\Point.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\3D_Element\\Vector.cpp.obj", "Model\\3D_Element\\Vector.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\3D_Element\\Vector.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\Im_and_Expoter\\Exporter.cpp.obj", "Model\\Im_and_Expoter\\Exporter.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\Im_and_Expoter\\Exporter.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\Im_and_Expoter\\Importer.cpp.obj", "Model\\Im_and_Expoter\\Importer.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\Im_and_Expoter\\Importer.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\Im_and_Expoter\\ObjExporter.cpp.obj", "Model\\Im_and_Expoter\\ObjExporter.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\Im_and_Expoter\\ObjExporter.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\Im_and_Expoter\\ObjImporter.cpp.obj", "Model\\Im_and_Expoter\\ObjImporter.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\Im_and_Expoter\\ObjImporter.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Model\\Store\\Store.cpp.obj", "Model\\Store\\Store.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Model\\Store\\Store.cpp"
+},
+{
+  "directory": "c:\\Users\\Lenovo\\Desktop\\2024oop_fianl work\\src",
+  "arguments": ["C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\cl.exe", "/c", "/nologo", "/EHsc", "/Fobuild\\.objs\\main\\windows\\x64\\release\\Viewer\\Viewer.cpp.obj", "Viewer\\Viewer.cpp", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\cppwinrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\um", "-imsvc", "D:\\Windows Kits\\10\\Include\\10.0.22621.0\\winrt", "-imsvc", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.39.33519\\include"],
+  "file": "Viewer\\Viewer.cpp"
+}]
